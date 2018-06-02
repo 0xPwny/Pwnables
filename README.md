@@ -7,4 +7,4 @@
 | pwnable.tw  | yes     | [silver_bullet.py](files/pwnable.tw/silver_bullet/silver_bullet.py)  | Strncat nullbyte   |
 | pwnable.tw  | yes     | [hacknote.py](files/pwnable.tw/hacknote/hacknote.py)|   Use after free |
 | RHme3 Quals | yes     | [exploit.py](files/RHme3/exploit.py)| Use after Free |
-| pwnable.tw  | yes     | [exploit.py](files/pwnable.tw/applestore/applestore.py) | unlink |
+| pwnable.tw  | yes     | [applestore.py](files/pwnable.tw/applestore/applestore.py) | unlink |
